@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "49C68921-7179-4C1D-85EF-921FE929249F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32AB3D49-29EF-43D3-9542-D2C48FAC446F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "HttpRequest"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "32AB3D49-29EF-43D3-9542-D2C48FAC446F - 93bc34ea8f7f11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BrandsAreLiveDemo.HttpRequest.saveDataToCoreData(Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "32AB3D49-29EF-43D3-9542-D2C48FAC446F - 93bc34ea8f7cf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BrandsAreLiveDemo.HttpRequest.saveDataToCoreData(Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "32AB3D49-29EF-43D3-9542-D2C48FAC446F - 93bc34ea8f7f30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BrandsAreLiveDemo.HttpRequest.saveDataToCoreData(Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "32AB3D49-29EF-43D3-9542-D2C48FAC446F - 93bc34ea8f7cd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BrandsAreLiveDemo.HttpRequest.saveDataToCoreData(Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "32AB3D49-29EF-43D3-9542-D2C48FAC446F - 87372ad941c20cd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BrandsAreLiveDemo.HttpRequest.saveDataToCoreData(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "145">
+               </Location>
+               <Location
+                  uuid = "32AB3D49-29EF-43D3-9542-D2C48FAC446F - 87372ad941c20c9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BrandsAreLiveDemo.HttpRequest.saveDataToCoreData(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "145">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6250C6D-84A2-4277-90F2-BB15D2A42717"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "HttpRequest"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AD92AC5-3F60-4EA1-AE21-124D84185477"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "HttpRequest"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41987B9B-F2DF-4134-912B-219C20FAD748"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/Animals/AnimalsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getAnimalsData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41987B9B-F2DF-4134-912B-219C20FAD748 - 2d2e860442590e82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BrandsAreLiveDemo.AnimalsVC.getAnimalsData() -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/Animals/AnimalsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "250">
+               </Location>
+               <Location
+                  uuid = "41987B9B-F2DF-4134-912B-219C20FAD748 - b104c58e8eff8619"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; () in BrandsAreLiveDemo.AnimalsVC.getAnimalsData() -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/Animals/AnimalsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "41987B9B-F2DF-4134-912B-219C20FAD748 - b104c58e8eff865b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; () in BrandsAreLiveDemo.AnimalsVC.getAnimalsData() -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/Animals/AnimalsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CD90248-1EA1-4C45-A794-A2575C7227C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/Animals/AnimalsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getAnimalsData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3CD90248-1EA1-4C45-A794-A2575C7227C5 - b104c58e8eff8619"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; () in BrandsAreLiveDemo.AnimalsVC.getAnimalsData() -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/Animals/AnimalsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3CD90248-1EA1-4C45-A794-A2575C7227C5 - 1e07a76262470594"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; () in BrandsAreLiveDemo.AnimalsVC.getAnimalsData() -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/Animals/AnimalsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "3CD90248-1EA1-4C45-A794-A2575C7227C5 - 1e07a7626247054a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; () in BrandsAreLiveDemo.AnimalsVC.getAnimalsData() -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/Animals/AnimalsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58B2D1C1-846E-488C-9AF7-0CF4D4E22081"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "requestGETURL(_:header:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58B2D1C1-846E-488C-9AF7-0CF4D4E22081 - fbefa4aceb01646c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1449">
+               </Location>
+               <Location
+                  uuid = "58B2D1C1-846E-488C-9AF7-0CF4D4E22081 - fbefa4aceb01646c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1836">
+               </Location>
+               <Location
+                  uuid = "58B2D1C1-846E-488C-9AF7-0CF4D4E22081 - fbefa4aceb01646c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "58B2D1C1-846E-488C-9AF7-0CF4D4E22081 - fbefa4aceb016443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "2310">
+               </Location>
+               <Location
+                  uuid = "58B2D1C1-846E-488C-9AF7-0CF4D4E22081 - fbefa4aceb016443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "2282">
+               </Location>
+               <Location
+                  uuid = "58B2D1C1-846E-488C-9AF7-0CF4D4E22081 - fbefa4aceb016443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "2346">
+               </Location>
+               <Location
+                  uuid = "58B2D1C1-846E-488C-9AF7-0CF4D4E22081 - 8f9365af3f8c402f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1795">
+               </Location>
+               <Location
+                  uuid = "58B2D1C1-846E-488C-9AF7-0CF4D4E22081 - 8f9365af3f8c402f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1859">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "265B27F9-1615-4BCC-98EA-03F07DC861DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "requestGETURL(_:header:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "265B27F9-1615-4BCC-98EA-03F07DC861DD - 93bc34ea8f7c29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static BrandsAreLiveDemo.HttpRequest.saveDataToCoreData(Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "265B27F9-1615-4BCC-98EA-03F07DC861DD - fbefa4aceb0164c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1593">
+               </Location>
+               <Location
+                  uuid = "265B27F9-1615-4BCC-98EA-03F07DC861DD - fbefa4aceb016505"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1729">
+               </Location>
+               <Location
+                  uuid = "265B27F9-1615-4BCC-98EA-03F07DC861DD - fbefa4aceb016526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "2080">
+               </Location>
+               <Location
+                  uuid = "265B27F9-1615-4BCC-98EA-03F07DC861DD - 8f9365af3f8c40c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1555">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E65BE41D-4225-410B-B1E1-4CAF8EA78BC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "requestGETURL(_:header:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E65BE41D-4225-410B-B1E1-4CAF8EA78BC1 - fbefa4aceb015b4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1547">
+               </Location>
+               <Location
+                  uuid = "E65BE41D-4225-410B-B1E1-4CAF8EA78BC1 - fbefa4aceb015b4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1611">
+               </Location>
+               <Location
+                  uuid = "E65BE41D-4225-410B-B1E1-4CAF8EA78BC1 - fbefa4aceb015b4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "547">
+               </Location>
+               <Location
+                  uuid = "E65BE41D-4225-410B-B1E1-4CAF8EA78BC1 - fbefa4aceb015baa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1063">
+               </Location>
+               <Location
+                  uuid = "E65BE41D-4225-410B-B1E1-4CAF8EA78BC1 - fbefa4aceb015baa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Bool) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "E65BE41D-4225-410B-B1E1-4CAF8EA78BC1 - 8f9365af3f8c7f56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in static BrandsAreLiveDemo.HttpRequest.requestGETURL(_: Swift.String, header: Alamofire.HTTPHeaders, success: (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; (), failure: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/WebServices/HttpRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "521">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7920A6AD-157B-4EC4-BEF7-ACFAEC38B71A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/AnimalImages/AnimalImagesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "tableView(_:viewForHeaderInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "15463D43-3AC4-4C41-A336-5C48484365A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DE31A7D-3F9C-4B80-899B-ABD2AA489D94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/FavoriteAnimals/Filter/FilterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1E7AD90-AB8E-48DD-B848-F5D4CB52C6AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/FavoriteAnimals/FavoritesAnimalsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "passingData(filterList:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3804F8A1-08C3-4BEF-92FB-1902778C3122"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/FavoriteAnimals/FavoritesAnimalsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "passingData(filterList:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14A087A9-2198-4DD2-9697-BCF5EDFC103A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BrandsAreLiveDemo/AnimalImages/AnimalImagesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "imageTapped(tapGestureRecognizer:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14A087A9-2198-4DD2-9697-BCF5EDFC103A - bf47c331dba73ac9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BrandsAreLiveDemo.AnimalImagesVC.imageTapped(tapGestureRecognizer: __C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/AnimalImages/AnimalImagesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "214">
+               </Location>
+               <Location
+                  uuid = "14A087A9-2198-4DD2-9697-BCF5EDFC103A - bf47c331dba73ac9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BrandsAreLiveDemo.AnimalImagesVC.imageTapped(tapGestureRecognizer: __C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "BrandsAreLiveDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hardikshah/Documents/MobioSolutions/Data/Practical/BrandsAreLiveDemo/BrandsAreLiveDemo/AnimalImages/AnimalImagesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "259">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

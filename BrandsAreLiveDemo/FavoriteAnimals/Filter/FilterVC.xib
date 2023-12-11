@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21678"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="FilterVC" customModule="BrandsAreLiveDemo" customModuleProvider="target">
+            <connections>
+                <outlet property="animalTV" destination="1gf-aI-J1F" id="FaN-Ag-HHt"/>
+                <outlet property="clearAllBtn" destination="qeY-tF-px1" id="vqS-GC-2hr"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="lB7-ol-SZW">
+                    <rect key="frame" x="0.0" y="59" width="393" height="759"/>
+                    <subviews>
+                        <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" allowsMultipleSelection="YES" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="1gf-aI-J1F">
+                            <rect key="frame" x="0.0" y="0.0" width="393" height="707"/>
+                            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        </tableView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qeY-tF-px1">
+                            <rect key="frame" x="12" y="715" width="369" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="f3T-qF-9qV"/>
+                            </constraints>
+                            <state key="normal" title="Button"/>
+                            <buttonConfiguration key="configuration" style="filled" title="CLEAR ALL">
+                                <fontDescription key="titleFontDescription" type="system" weight="semibold" pointSize="16"/>
+                                <color key="baseBackgroundColor" systemColor="systemOrangeColor"/>
+                            </buttonConfiguration>
+                            <connections>
+                                <action selector="clearAllFilterBtnTapHandler:" destination="-1" eventType="touchUpInside" id="tFR-23-jva"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="qeY-tF-px1" secondAttribute="trailing" constant="12" id="Oip-VL-PAs"/>
+                        <constraint firstItem="1gf-aI-J1F" firstAttribute="leading" secondItem="lB7-ol-SZW" secondAttribute="leading" id="yQB-Ks-HO2"/>
+                        <constraint firstItem="qeY-tF-px1" firstAttribute="centerX" secondItem="lB7-ol-SZW" secondAttribute="centerX" id="zVY-89-Est"/>
+                    </constraints>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="lB7-ol-SZW" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="HvO-c0-XD2"/>
+                <constraint firstItem="lB7-ol-SZW" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="Nfn-8f-CPS"/>
+                <constraint firstItem="lB7-ol-SZW" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="S5F-IM-Gl7"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="lB7-ol-SZW" secondAttribute="bottom" id="mgs-5n-SkX"/>
+            </constraints>
+            <point key="canvasLocation" x="55.725190839694655" y="-11.267605633802818"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemOrangeColor">
+            <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
